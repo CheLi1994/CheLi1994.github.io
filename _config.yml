@@ -1,10 +1,11 @@
 title: Your awesome title
 author: Chenglong Li
 email: chenglong.li@ugent.be
-description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Chenglong Li was enrolled as a doctoral researcher at Ghent University-IMEC
+ in Dec. 2018, where he is currently pursuing the PhD degree in the subject of UAV 
+ communications and localization for industrial applications. His current research 
+ interests include indoor localization based on UAV platform, networking planing 
+ and channel modeling for localization, UAV communications, and V2X channel measurement.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -19,7 +20,7 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    github:  CheLi1994
+    github: CheLi1994
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
@@ -33,7 +34,6 @@ plainwhite:
     # telegram: jekyll
     # googleplus: +jekyll
     # microdotblog: jekyll
-
     # Mastodon instances
     # mastodon:
     # - username: jekyll
@@ -44,7 +44,7 @@ plainwhite:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
- - about.md
+  - about.md
 
 # Build settings
 theme: plainwhite
