@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "RFID for smart IIoT"
+title:  "demo"
 date:   2019-11-26
-categories: RFID localization IIoT
+categories: IIoT
 ---
