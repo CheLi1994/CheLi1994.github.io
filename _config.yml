@@ -1,9 +1,5 @@
 ---
-layout: null
 title: Chenglong Li
-author: Chenglong Li
-email: chenglong.li@ugent.be
-description: Chenglong Li is a doctoral researcher at Ghent University-IMEC from Dec. 2018.
 show_excerpts: true # set to true to show excerpts on the homepage
 ---
 # Minima date format
@@ -14,6 +10,8 @@ plainwhite:
   name: Chenglong Li
   tagline: PhD @ UGent-IMEC
   date_format: "%b %-d, %Y"
+  email: chenglong.li@ugent.be
+  description: Chenglong Li is a doctoral researcher at Ghent University-IMEC from Dec. 2018.
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
